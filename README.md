@@ -22,6 +22,9 @@ I'm open to research collaborations. Feel free to reach out.
 | [Keyword Spotting in Handwritten Documents](https://github.com/MJGholami96/Keyword-Spotting-in-Handwritten-Documents) | Detecting a printed Persian keyword in handwritten forms with Mask R-CNN, custom anchors and augmentation; up to 98.1% mAP@0.5 |
 | [Lane Departure Detection](https://github.com/MJGholami96/lane-departure-detection-v1) | Lane detection and left/right departure warning on road videos with classical CV and OpenCV |
 
+## 🔨 Currently Building
+
+- License Plate Recognition System
 ## 📚 Publication
 
 - *Spotting of a Particular Printed Word in Farsi Handwritten Forms Using Deep Learning*, ICEE 2024 — [IEEE Xplore](https://ieeexplore.ieee.org/document/10668131)
