@@ -7,12 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mj.gholami96@gmail.com)
 ## 👋 About Me
 
-I'm a Computer Vision and Deep Learning researcher with 4 years of research experience building visual recognition systems, from image preprocessing and model design to training and evaluation.
-
-My focus is **object detection** and **image analysis**, with a growing interest in robot perception. I care about models that stay accurate and robust on real, messy data, not just clean benchmarks.
-
-**Tools:** Python · PyTorch · TensorFlow/Keras · OpenCV · MATLAB · Pandas
-
+I'm a Computer Vision and Deep Learning researcher, cares about models that stay accurate and robust on real, messy data, not just clean benchmarks.
 I'm open to research collaborations. Feel free to reach out.
 
 ## 🎯 Research Interests
