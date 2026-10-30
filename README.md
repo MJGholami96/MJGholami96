@@ -21,7 +21,7 @@ Computer Vision, Data-Efficient Deep Learning, Scene Understanding, Robot Percep
 
 ## 🔨 Currently Building
 
-- License Plate Recognition System
+...
 
 ## 🚀 Selected Projects
 
@@ -29,7 +29,6 @@ Computer Vision, Data-Efficient Deep Learning, Scene Understanding, Robot Percep
 | --- | --- |
 | [Keyword Spotting in Handwritten Documents](https://github.com/MJGholami96/Keyword-Spotting-in-Handwritten-Documents) | Detecting a printed Persian keyword in handwritten forms with Mask R-CNN, custom anchors and augmentation; up to 98.1% mAP@0.5 |
 | [Lane Departure Detection](https://github.com/MJGholami96/lane-departure-detection-v1) | Lane detection and left/right departure warning on road videos with classical CV and OpenCV |
-| [Persian License Plate Recognition](https://github.com/MJGholami96/persian-license-plate-recognition.git) | Ongoing project... |
 
 ## 📚 Publication
 
